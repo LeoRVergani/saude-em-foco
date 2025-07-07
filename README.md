@@ -53,7 +53,7 @@ O **Saúde em Foco** é um portal web interativo e responsivo, criado com o obje
 
 Você pode acessar a versão ao vivo do projeto através do link abaixo:
 
-> 👉 **[Acesse o Saúde em Foco aqui!](https://github.com/LeoRVergani/saude-em-foco)**
+> 👉 **[Acesse o Saúde em Foco aqui!](https://saude-em-foco-six.vercel.app/)**
 
 ![Screenshot da Home do Projeto Saúde em Foco](https://imgur.com/xAWdgD9)
 
